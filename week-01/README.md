@@ -1,6 +1,5 @@
 
 ## 📅 Week 1: Mastering the Linux Command Line Core
-* 📁 [Week 01 Documentation & Labs](./week-01)
 
 ### Day 1 & 2: Navigation & Environment Setup
 *   **Concepts Learned:** Understanding the Linux filesystem hierarchy, navigating without a GUI, and creating sandboxed project environments.
