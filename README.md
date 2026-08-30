@@ -12,4 +12,7 @@ Welcome to my daily learning log. This repository is dedicated to documenting my
 
 ## 📅 Week 1: Mastering the Linux Command Line Core
 * 📁 [Week 01 Documentation & Labs](./week-01)
+## 📅 Week 2: Mastering the Linux Command Line Core
+* 📁 [Week 02 Documentation & Labs](./week-02)
+  
 
