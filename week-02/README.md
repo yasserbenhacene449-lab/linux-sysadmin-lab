@@ -50,6 +50,6 @@ Identifying file formats via system utilities and metadata indicators:
 
 ---
 
-## 📸 Lab Evidence & Execution Verification
+
 
 *(Upload your KodeKloud terminal screenshots here to verify command execution)*
