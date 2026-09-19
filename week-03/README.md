@@ -1,4 +1,3 @@
-# ⚙️ Week 03: Package Management, Systemd Services & Troubleshooting Workflows
 
 Hands-on lab documentation focusing on Linux software distribution architecture, system daemon control, and enterprise diagnostic methodologies.
 
