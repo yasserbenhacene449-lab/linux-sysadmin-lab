@@ -39,10 +39,12 @@ sudo systemctl enable httpd
 # Disable service auto-start on boot
 sudo systemctl disable httpd
 
-<img width="730" height="460" alt="Capture d’écran 2026-09-19 140242" src="https://github.com/user-attachments/assets/2497e416-a2be-42ae-8883-6088d8e0b15e" />
-<img width="982" height="474" alt="Capture d’écran 2026-09-16 142926" src="https://github.com/user-attachments/assets/102f01ae-ba47-4919-9ab9-8d659e33ea0d" />
-<img width="727" height="443" alt="Capture d’écran 2026-09-19 140451" src="https://github.com/user-attachments/assets/20f6ca74-d91d-4818-b9f6-bbfddbb99b49" />
-<img width="730" height="438" alt="Capture d’écran 2026-09-19 140420" src="https://github.com/user-attachments/assets/0a64eecd-2360-4a5c-8647-8e469e2f2564" />
-<img width="732" height="460" alt="Capture d’écran 2026-09-19 140352" src="https://github.com/user-attachments/assets/d54fb7c8-c44e-44fd-99b5-172e040ed477" />
+<img width="727" height="443" alt="Capture d’écran 2026-09-19 140451" src="https://github.com/user-attachments/assets/8d539cf2-a652-4a53-a638-d3a99d42c446" />
+<img width="730" height="438" alt="Capture d’écran 2026-09-19 140420" src="https://github.com/user-attachments/assets/3efed906-8418-4de9-b26f-d82f25a30e0a" />
+<img width="732" height="460" alt="Capture d’écran 2026-09-19 140352" src="https://github.com/user-attachments/assets/3cee153c-27c5-49c8-a6b1-cf4fb6538e46" />
+<img width="730" height="460" alt="Capture d’écran 2026-09-19 140242" src="https://github.com/user-attachments/assets/dc642df2-eb4b-4a63-a0f3-0f640eab5a8f" />
+<img width="982" height="474" alt="Capture d’écran 2026-09-16 142926" src="https://github.com/user-attachments/assets/3f191258-b34f-4b86-a94c-c3d62f9a1173" />
+
+
 
 
