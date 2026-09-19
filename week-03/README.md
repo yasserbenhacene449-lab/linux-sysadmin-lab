@@ -38,3 +38,11 @@ sudo systemctl enable httpd
 
 # Disable service auto-start on boot
 sudo systemctl disable httpd
+
+<img width="730" height="460" alt="Capture d’écran 2026-09-19 140242" src="https://github.com/user-attachments/assets/2497e416-a2be-42ae-8883-6088d8e0b15e" />
+<img width="982" height="474" alt="Capture d’écran 2026-09-16 142926" src="https://github.com/user-attachments/assets/102f01ae-ba47-4919-9ab9-8d659e33ea0d" />
+<img width="727" height="443" alt="Capture d’écran 2026-09-19 140451" src="https://github.com/user-attachments/assets/20f6ca74-d91d-4818-b9f6-bbfddbb99b49" />
+<img width="730" height="438" alt="Capture d’écran 2026-09-19 140420" src="https://github.com/user-attachments/assets/0a64eecd-2360-4a5c-8647-8e469e2f2564" />
+<img width="732" height="460" alt="Capture d’écran 2026-09-19 140352" src="https://github.com/user-attachments/assets/d54fb7c8-c44e-44fd-99b5-172e040ed477" />
+
+
