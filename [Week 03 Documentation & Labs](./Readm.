@@ -1,5 +1,0 @@
-
-  * Service Management & Daemons (`systemctl start`, `stop`, `status`, `enable`)
-  * Web & Application Services Setup (`httpd` / Apache & Flask `app`)
-  * Systemd Unit Files & Background Processes Concepts
-  * Hands-on Diagnostic Workflow (`which`, `yum install`, Service Verification)
