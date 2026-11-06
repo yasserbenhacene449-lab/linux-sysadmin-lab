@@ -34,5 +34,3 @@ Hands-on lab documentation focusing on Linux software distribution architecture,
 <img width="732" height="460" alt="Capture d’écran 2026-09-19 140352" src="https://github.com/user-attachments/assets/13beea44-b73d-4198-a435-c22d695b2756" />
 <img width="730" height="460" alt="Capture d’écran 2026-09-19 140242" src="https://github.com/user-attachments/assets/86c4b6dd-47d3-4ea4-b23a-490cb6649b56" />
 
-
-*(ضع صور الشاشة الخاصة بك هنا مباشرة بعد لصق النص)*
