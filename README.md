@@ -22,3 +22,6 @@ Welcome to my daily learning log. This repository is dedicated to documenting my
 ### 📆 Week 3: Package Management, Systemd Services & Troubleshooting Workflows
 * 📁 [Week 03 Documentation & Labs](./week-03)
 
+### 📅 Week 4: Users, Groups & Identity Management
+* 📁 [Week 04 Documentation & Labs](./week-04)
+
