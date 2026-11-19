@@ -25,3 +25,5 @@ Welcome to my daily learning log. This repository is dedicated to documenting my
 ### 📅 Week 4: Users, Groups & Identity Management
 * 📁 [Week 04 Documentation & Labs](./week-04)
 
+### 🗓️ Week 5: Superuser Access & Privilege Management
+* 📁 [Week 05 Documentation & Labs](./week-05)
