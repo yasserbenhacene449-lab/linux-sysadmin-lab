@@ -202,28 +202,20 @@ sudo userdel testuser1
 
 ---
 
-## 📸 Screenshots (from the lecture, for reference)
 
 ### 1. `useradd` fails without sudo (Debian)
-![useradd fails](images/01-useradd-fail.png)
 
 ### 2. Password set and `su - user1` warning
-![su warning](images/02-su-warning.png)
 
 ### 3. `/etc/passwd` entry for user1
-![passwd entry](images/03-passwd-entry.png)
 
 ### 4. `useradd` with options (-m, -s, -c)
-![useradd options](images/04-useradd-options.png)
 
 ### 5. `adduser` on Debian
-![adduser](images/05-adduser.png)
 
 ### 6. `useradd` permission denied (Rocky)
-![Rocky permission denied](images/06-rocky-denied.png)
 
 ### 7. Setting a password (Rocky)
-![Rocky passwd](images/07-rocky-passwd.png)
 
 ### 8. Home directory created automatically (Rocky)
 ![Rocky home](images/08-rocky-home.png)
