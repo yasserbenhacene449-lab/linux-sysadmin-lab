@@ -27,3 +27,6 @@ Welcome to my daily learning log. This repository is dedicated to documenting my
 
 ### 🗓️ Week 5: Superuser Access & Privilege Management
 * 📁 [Week 05 Documentation & Labs](./week-05)
+
+### 🗓️ Week 6: Creating Users from the Command Line
+* 📁 [Week 06 Documentation & Labs](./week-06)
